@@ -1,3 +1,9 @@
-# app-finans
+# Projeto Finans
 
-Ambiente desenvolvido 👉 https://clever-almeida-3e06c8.netlify.app/
+* * *
+
+Como acabei de aprender bootstrap, eu desenvolvi esse projeto inteiro com essa framework topada.
+
+* * *
+
+Para ver a aplicação **[Clique aqui]( https://clever-almeida-3e06c8.netlify.app/)**
