@@ -2,7 +2,7 @@
 
 * * *
 
-Como acabei de aprender bootstrap, eu desenvolvi esse projeto inteiro com essa framework topada.
+Como acabei de aprender bootstrap, eu desenvolvi esse projeto inteiro com essa framework incrivel.
 
 * * *
 
